@@ -7,4 +7,4 @@ metadata:
 spec:
   containers:
     - image: launcher.gcr.io/google/jenkins2
-      name: jenkins
+      name: jenkins 
